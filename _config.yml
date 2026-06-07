@@ -2,4 +2,4 @@
  #logo: /assets/img/headshot_circle.png
  #description: test below image
  show_download: true
- theme: jekyll-theme-minnma 
+ theme: jekyll-theme-minima
