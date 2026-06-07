@@ -125,7 +125,7 @@ Coming from an operations background has given me a unique perspective on how sy
 
 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/ubong-gibson-537830b4)
 
-🐙 GitHub: [Add GitHub URL]
+🐙 GitHub:[ [GitHub]](https://unclegibs.github.io/protfolio.github.io/)
 
 ---
 
