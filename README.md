@@ -1,3 +1,4 @@
+img[assest/head_shot.jpg]
 # Hi, I'm Gibson Ubong Emmanuel 👋
 
 ## About Me
